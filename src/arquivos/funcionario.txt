@@ -1,0 +1,6 @@
+hagamenon nicolau;2000;10/10/1990
+Geovana Antonela;11456.0;10/10/1975
+Paulo Roberto;3599.0;15/3/1994
+Luiz Antônio;3500.0;3/7/1982
+Andreia Marcela;6000.0;1/12/1998
+Bruna Oliveira;1900;1/1/2000
